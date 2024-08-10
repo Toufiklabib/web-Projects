@@ -1,0 +1,21 @@
+[
+  {
+    "name": "BREAKFIRST",
+    "uv": 20.47,
+    
+    "fill": "#8884d8"
+  },
+  {
+    "name": "LUNCH",
+    "uv": 60.69,
+    
+    "fill": "#83a6ed"
+  },
+  {
+    "name": "DINNER",
+    "uv": 80.69,
+   
+    "fill": "#8dd1e1"
+  }
+  
+]
