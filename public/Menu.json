@@ -1,458 +1,290 @@
 [
-    {
-        "_id": "642c155b2c4774f05c36eeaa",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "salad",
-        "price": 14.7
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeb9",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "drinks",
-        "price": 14.7
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee7c",
-        "name": "Escalope de Veau",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-5-370x247.jpg",
-        "category": "popular",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee88",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "dessert",
-        "price": 12.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee7a",
-        "name": "Roast Duck Breast",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-5-370x247.jpg",
-        "category": "popular",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee8c",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "dessert",
-        "price": 12.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee94",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "pizza",
-        "price": 12.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee9e",
-        "name": "Breton Fish Stew",
-        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "pizza",
-        "price": 12.9
-    },
-    {
-        "_id": "642c155b2c4774f05c36eea6",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "salad",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeaf",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "soup",
-        "price": 12.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee89",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "dessert",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee8a",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "dessert",
-        "price": 12.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee96",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "pizza",
-        "price": 9.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee81",
-        "name": "Tuna Niçoise",
-        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "offered",
-        "price": 10.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee84",
-        "name": "Roast Duck Breast",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-4-370x247.jpg",
-        "category": "dessert",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eea4",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "salad",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eea5",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "salad",
-        "price": 9.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee87",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "dessert",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee83",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "offered",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee7f",
-        "name": "Roasted Pork Belly",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "popular",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eea8",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "salad",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeba",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "drinks",
-        "price": 14.7
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee80",
-        "name": "Roast Duck Breast",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-4-370x247.jpg",
-        "category": "offered",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee90",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "dessert",
-        "price": 9.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeb0",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "soup",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee8d",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "dessert",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee8e",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "dessert",
-        "price": 12.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eea7",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "salad",
-        "price": 9.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee99",
-        "name": "Goats Cheese Pizza",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2017/01/bbq-370x247.jpg",
-        "category": "pizza",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeb3",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "soup",
-        "price": 9.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeb5",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "soup",
-        "price": 9.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeb6",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "soup",
-        "price": 14.7
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeb8",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "soup",
-        "price": 14.7
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee7e",
-        "name": "Fish Parmentier",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-5-370x247.jpg",
-        "category": "popular",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee8b",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "dessert",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee8f",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "dessert",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee91",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "dessert",
-        "price": 14.7
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee97",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "pizza",
-        "price": 14.7
-    },
-    {
-        "_id": "642c155b2c4774f05c36eea0",
-        "name": "Roasted Pork Belly",
-        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "pizza",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eea9",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "salad",
-        "price": 9.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee85",
-        "name": "Tuna Niçoise",
-        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "dessert",
-        "price": 10.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee93",
-        "name": "Tuna Niçoise",
-        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "pizza",
-        "price": 10.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee95",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
-        "category": "pizza",
-        "price": 13.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee9b",
-        "name": "Goats Cheese Pizza",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2017/01/bbq-370x247.jpg",
-        "category": "pizza",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeb7",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "soup",
-        "price": 9.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee9c",
-        "name": "Breton Fish Stew",
-        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "pizza",
-        "price": 12.9
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee9d",
-        "name": "Goats Cheese Pizza",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2017/01/bbq-370x247.jpg",
-        "category": "pizza",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeac",
-        "name": "Roasted Pork Belly",
-        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "salad",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeb4",
-        "name": "Haddock",
-        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
-        "category": "soup",
-        "price": 14.7
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee98",
-        "name": "Breton Fish Stew",
-        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "pizza",
-        "price": 12.9
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee82",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "offered",
-        "price": 12.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee86",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "dessert",
-        "price": 12.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36ee9a",
-        "name": "Breton Fish Stew",
-        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "pizza",
-        "price": 12.9
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeab",
-        "name": "Goats Cheese Pizza",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2017/01/bbq-370x247.jpg",
-        "category": "salad",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeb1",
-        "name": "Fish Parmentier",
-        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-8-370x247.jpg",
-        "category": "soup",
-        "price": 9.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eead",
-        "name": "Roast Duck Breast",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-4-370x247.jpg",
-        "category": "soup",
-        "price": 14.5
-    },
-    {
-        "_id": "642c155b2c4774f05c36eeae",
-        "name": "Tuna Niçoise",
-        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
-        "category": "soup",
-        "price": 10.5
-    }
+  {
+    "_id": "642c155b2c4774f05c36ee01",
+    "name": "Paratha with Egg Curry",
+    "recipe": "Flaky paratha served with spiced egg curry",
+    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=400",
+    "category": "breakfast",
+    "price": 60
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee02",
+    "name": "Puri Bhaji",
+    "recipe": "Deep fried puri bread with potato curry",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=400",
+    "category": "breakfast",
+    "price": 50
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee03",
+    "name": "Khichuri with Egg",
+    "recipe": "Rice and lentil porridge served with boiled egg",
+    "image": "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=400",
+    "category": "breakfast",
+    "price": 55
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee04",
+    "name": "Bread Omelette",
+    "recipe": "Toasted bread with spiced omelette",
+    "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=400",
+    "category": "breakfast",
+    "price": 45
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee05",
+    "name": "Halwa Puri",
+    "recipe": "Sweet semolina halwa with crispy puri",
+    "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=400",
+    "category": "breakfast",
+    "price": 65
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee06",
+    "name": "Roti with Dal",
+    "recipe": "Whole wheat roti served with lentil curry",
+    "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?w=400",
+    "category": "breakfast",
+    "price": 40
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee07",
+    "name": "Noodles",
+    "recipe": "Stir-fried noodles with vegetables",
+    "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=400",
+    "category": "breakfast",
+    "price": 70
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee08",
+    "name": "Chicken Curry",
+    "recipe": "Traditional Bengali chicken curry",
+    "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=400",
+    "category": "lunch",
+    "price": 130
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee09",
+    "name": "Mutton Kosha",
+    "recipe": "Slow cooked mutton in thick gravy",
+    "image": "https://images.unsplash.com/photo-1574484284002-952d92456975?w=400",
+    "category": "lunch",
+    "price": 200
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee10",
+    "name": "Fish Curry",
+    "recipe": "Rui fish curry with potatoes",
+    "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=400",
+    "category": "lunch",
+    "price": 150
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee11",
+    "name": "Beef Bhuna",
+    "recipe": "Tender beef cooked with onions",
+    "image": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=400",
+    "category": "lunch",
+    "price": 170
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee12",
+    "name": "Vegetable Curry",
+    "recipe": "Mixed vegetable curry",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400",
+    "category": "lunch",
+    "price": 80
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee13",
+    "name": "Dal",
+    "recipe": "Lentil curry tempered with spices",
+    "image": "https://images.unsplash.com/photo-1546833998-877b37c2e5c6?w=400",
+    "category": "lunch",
+    "price": 60
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee14",
+    "name": "Egg Curry",
+    "recipe": "Boiled eggs in spiced gravy",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=400",
+    "category": "lunch",
+    "price": 90
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee15",
+    "name": "Chicken Biryani",
+    "recipe": "Fragrant basmati rice layered with spiced chicken",
+    "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=400",
+    "category": "lunch",
+    "price": 180
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee16",
+    "name": "Mutton Biryani",
+    "recipe": "Aromatic rice with tender mutton pieces",
+    "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=400",
+    "category": "lunch",
+    "price": 250
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee17",
+    "name": "Prawn Malai Curry",
+    "recipe": "Prawns in coconut milk gravy",
+    "image": "https://images.unsplash.com/photo-1633504581786-316c8002b1b2?w=400",
+    "category": "lunch",
+    "price": 220
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee18",
+    "name": "Chicken Roast",
+    "recipe": "Marinated roasted chicken",
+    "image": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=400",
+    "category": "dinner",
+    "price": 150
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee19",
+    "name": "Beef Kacchi Biryani",
+    "recipe": "Traditional Dhaka style raw beef biryani",
+    "image": "https://images.unsplash.com/photo-1642821373181-696a54913e93?w=400",
+    "category": "dinner",
+    "price": 220
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee20",
+    "name": "Ilish Bhaja",
+    "recipe": "Fried hilsa fish with mustard oil",
+    "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=400",
+    "category": "dinner",
+    "price": 180
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee21",
+    "name": "Mutton Rezala",
+    "recipe": "Mutton in white creamy gravy",
+    "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400",
+    "category": "dinner",
+    "price": 210
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee22",
+    "name": "Fish Fry",
+    "recipe": "Crispy fried fish with salad",
+    "image": "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?w=400",
+    "category": "dinner",
+    "price": 160
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee23",
+    "name": "Vegetable Biryani",
+    "recipe": "Mixed vegetables with fragrant rice",
+    "image": "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=400",
+    "category": "dinner",
+    "price": 120
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee24",
+    "name": "Prawn Biryani",
+    "recipe": "Jumbo prawns with aromatic rice",
+    "image": "https://images.unsplash.com/photo-1633504581786-316c8002b1b2?w=400",
+    "category": "dinner",
+    "price": 280
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee25",
+    "name": "Chicken Tikka",
+    "recipe": "Grilled marinated chicken",
+    "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=400",
+    "category": "dinner",
+    "price": 160
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee26",
+    "name": "Dal Khichuri",
+    "recipe": "Rice and lentil mix",
+    "image": "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=400",
+    "category": "dinner",
+    "price": 80
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee27",
+    "name": "Egg Biryani",
+    "recipe": "Boiled eggs layered with spiced rice",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=400",
+    "category": "dinner",
+    "price": 100
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee28",
+    "name": "White Rice",
+    "recipe": "Steamed basmati rice",
+    "image": "https://images.unsplash.com/photo-1516684732162-798a0062be99?w=400",
+    "category": "rice",
+    "price": 20
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee29",
+    "name": "Fried Rice",
+    "recipe": "Stir-fried rice with vegetables",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=400",
+    "category": "rice",
+    "price": 80
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee30",
+    "name": "Polao",
+    "recipe": "Fragrant rice cooked with ghee and spices",
+    "image": "https://images.unsplash.com/photo-1596560548464-f010549b84d7?w=400",
+    "category": "rice",
+    "price": 60
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee31",
+    "name": "Plain Paratha",
+    "recipe": "Flaky layered flatbread",
+    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=400",
+    "category": "paratha",
+    "price": 15
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee32",
+    "name": "Aloo Paratha",
+    "recipe": "Paratha stuffed with spiced potatoes",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=400",
+    "category": "paratha",
+    "price": 25
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee33",
+    "name": "Egg Paratha",
+    "recipe": "Paratha with egg filling",
+    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=400",
+    "category": "paratha",
+    "price": 30
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee34",
+    "name": "Plain Roti",
+    "recipe": "Whole wheat flatbread",
+    "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?w=400",
+    "category": "roti",
+    "price": 10
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee35",
+    "name": "Tandoori Roti",
+    "recipe": "Clay oven baked whole wheat bread",
+    "image": "https://images.unsplash.com/photo-1619985632461-f33748ef8f3e?w=400",
+    "category": "roti",
+    "price": 15
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee36",
+    "name": "Naan",
+    "recipe": "Soft leavened flatbread",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=400",
+    "category": "roti",
+    "price": 20
+  }
 ]
